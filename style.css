@@ -1,0 +1,38 @@
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.container{
+    background-color: #dedada;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+.input-field{
+    width: 98%;
+    border-radius: 4px;
+    border:solid 1px;
+    padding: 2px;
+}
+input[type="submit"]{
+    padding: 10px;
+    background-color: rgb(25, 154, 61);
+    border: solid 1px;
+    border-radius: 10px;
+    color: white;
+    width: 100%;
+}
+input[type="submit"]:hover{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px;
+    border-radius: 10px;
+    color: rgb(25, 154, 61);
+    width: 100%;
+    cursor: pointer;
+}
+
+.options{
+    padding-left: 50px;
+}
